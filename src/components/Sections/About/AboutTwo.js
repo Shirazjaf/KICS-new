@@ -6,10 +6,11 @@ const AboutTwo = () => {
             <div className="container">
                 <div className="flex gap-y-3 items-center justify-between max-lg:flex-wrap">
                     <div className="w-full xl:w-5/12 lg:w-6/12">
-                        <h3 className="heading3">We are your strategic partner for industrial and community development</h3>
+                        <h3 className="heading3">ജനങ്ങളെ ശാക്തീകരിക്കുക
+                        രാഷ്ട്രത്തെ ശാക്തീകരിക്കുക</h3>
                     </div>
                     <div className="w-full lg:w-6/12">
-                        <div className="desc">At Kairali Industrial Cooperative Society Ltd (KICS), We are more than a development organization—we are dedicated partners in your growth. Guided by a mission to empower communities and industries, we deliver innovative solutions and sustainable strategies that drive meaningful progress.</div>
+                        <div className="desc">കൈരളി ഇൻഡസ്ട്രിയൽ കോഓപ്പറേറ്റീവ് സൊസൈറ്റി ലിമിറ്റഡ് (KICS), സ്വകാര്യ വ്യവസായ എസ്റ്റേറ്റുകൾ ആരംഭിക്കുന്നതിനും വികസിപ്പിക്കുന്നതിനുമായി ജനപങ്കാളിത്തത്തോടെ രൂപീകരിച്ച ഇന്ത്യയിലെ ആദ്യത്തെ സഹകരണ സംഘമാണ്. വ്യാവസായിക പ്രോജക്ടുകളുടെ സമ്പൂർണ്ണ പരിഹാര കേന്ദ്രമാണ് ഈ സ്ഥാപനം. ഉൽപ്പാദനം, ഊർജം, കൃഷി, ഭക്ഷണം, ആരോഗ്യം, ഐടി, വിദ്യാഭ്യാസം, ഗവേഷണം, നൂതന സാങ്കേതികവിദ്യ, അടിസ്ഥാന സൗകര്യ വികസനം, നൈപുണ്യ വികസനം, റീട്ടെയിൽ, ടൂറിസം, ഹോസ്പിറ്റാലിറ്റി തുടങ്ങിയ മേഖലകളിൽ പദ്ധതികൾ ആവിഷ്കരിച്ച് നടപ്പിലാക്കാനാണ് ലക്ഷ്യം വെക്കുന്നത്. പുതുതലമുറ സംരംഭകർക്ക് അവസരങ്ങളുടെയും സാധ്യതകളുടെയും പുതുലോകമാണ് തുറന്നു കൊടുക്കുന്നത്, ഒട്ടനവധി തൊഴിൽ അവസരങ്ങൾ സൃഷ്ടിക്കാനും ഇത് കാരണമാവും. പരസ്പര സഹകരണത്തിലൂടെ സംഘത്തിലെ അംഗങ്ങൾ സ്വയംപര്യാപ്തരാവുന്നത് സാമൂഹിക പുരോഗതിക്കും സാമൂഹിക പ്രതിബദ്ധതയ്ക്കും വഴിതെളിക്കും</div>
                         <Link className="text-button-sm inline-block mt-4 border-b-2 border-black" href="/about-us">Our Company</Link>
                     </div>
                 </div>

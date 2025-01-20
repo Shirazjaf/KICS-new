@@ -34,12 +34,7 @@ const SliderTwo = () => {
                     <h2 className="heading1 text-white">Experts engineering <br />industrial solutions</h2>
                     <div className="body2 text-white md:mt-4 mt-2">Collaborating to create a roadmap for your triumph</div>
                     <div className="group-btn flex items-center flex-wrap gap-3 md:mt-8 mt-5">
-                      <Link href={"#"}
-                        // as={
-                        //   process.env.PUBLIC_URL +
-                        //   "/services/" +
-                        //   convertToSlug('Managed IT Services')
-                        // }
+                      <Link href='/pages/contact-us'
                         className="button-main bg-white text-black rounded hover:bg-yellow">Our Services</Link>
                       <Link href='#!' scroll={false} className="button-main bg-yellow rounded-full inline-flex gap-2" >
                         <Icon.PlayCircle weight='fill' className='text-black text-2xl' />
@@ -71,9 +66,7 @@ const SliderTwo = () => {
                     <div className="group-btn flex items-center flex-wrap gap-3 md:mt-8 mt-5">
                       <Link href={"#"}
                         as={
-                          process.env.PUBLIC_URL +
-                          "/services/" +
-                          convertToSlug('Managed IT Services')
+                          '#'
                         }
                         className="button-main bg-white text-black rounded hover:bg-yellow">Our Services</Link>
                       <Link href='#!' scroll={false} className="button-main bg-yellow rounded-full inline-flex gap-2" >
