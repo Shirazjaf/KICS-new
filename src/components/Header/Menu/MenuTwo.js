@@ -11,7 +11,7 @@ export default function MenuTwo({ classname }) {
         <div className="menu__wrapper">
           <h1>
             <Link href="/" className="menu__wrapper__logo block">
-              <img src="/images/logo-kics.png" alt="Logo" width={400} />
+              <img src="/images/logo-kics.png" alt="Logo" width={500} />
             </Link>
           </h1>
           <Navigator className={'style-two'} />
